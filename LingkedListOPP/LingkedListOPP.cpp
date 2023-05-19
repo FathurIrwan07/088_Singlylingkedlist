@@ -23,3 +23,10 @@ public:
 
 };
 
+List::List()
+{
+	START = NULL;
+}
+void List::addNode() //menambah sebuah node kedalam list
+{
+	
