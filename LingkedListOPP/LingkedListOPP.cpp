@@ -186,4 +186,7 @@ int main()
 			break;
 		case '5':
 		{
-			
+			exit(0);
+		}
+		break;
+	
