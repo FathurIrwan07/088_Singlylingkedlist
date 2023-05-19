@@ -189,4 +189,11 @@ int main()
 			exit(0);
 		}
 		break;
-	
+	defaul:
+		{
+			cout << "Pilihan salah !." << endl;
+		}
+		break;
+		}
+	}
+}
